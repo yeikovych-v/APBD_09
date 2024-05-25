@@ -1,5 +1,5 @@
-using APBD_09.Context;
 using APBD_09.Controller;
+using APBD_09.Context;
 using APBD_09.Service;
 using Microsoft.Data.SqlClient;
 
@@ -17,7 +17,7 @@ class Program
 
         builder.Services.AddScoped<ApiController>();
         builder.Services.AddScoped<ApiService>();
-        builder.Services.AddScoped<s28201DbContext>();
+        builder.Services.AddScoped<Apbd09Context>();
 
         var app = builder.Build();
 

@@ -135,4 +135,5 @@ C:\Users\Volodymyr\RiderProjects\APBD_09\APBD_09\obj\Debug\net8.0\refint\APBD_09
 C:\Users\Volodymyr\RiderProjects\APBD_09\APBD_09\obj\Debug\net8.0\APBD_09.pdb
 C:\Users\Volodymyr\RiderProjects\APBD_09\APBD_09\obj\Debug\net8.0\APBD_09.genruntimeconfig.cache
 C:\Users\Volodymyr\RiderProjects\APBD_09\APBD_09\obj\Debug\net8.0\ref\APBD_09.dll
+C:\Users\Volodymyr\RiderProjects\APBD_09\APBD_09\obj\Debug\net8.0\APBD_09.sourcelink.json
 C:\Users\Volodymyr\RiderProjects\APBD_09\APBD_09\obj\Debug\net8.0\APBD_09.csproj.CopyComplete
