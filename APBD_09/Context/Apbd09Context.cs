@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using APBD_09.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace APBD_09.Context;

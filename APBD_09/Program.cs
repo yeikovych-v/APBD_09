@@ -1,7 +1,6 @@
 using APBD_09.Controller;
 using APBD_09.Context;
 using APBD_09.Service;
-using Microsoft.Data.SqlClient;
 
 class Program
 {

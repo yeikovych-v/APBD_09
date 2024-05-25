@@ -1,7 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using APBD_09.Context;
 
-namespace APBD_09.Context;
+namespace APBD_09.Models;
 
 public partial class Country
 {

@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace APBD_09.Context;
+﻿namespace APBD_09.Models;
 
 public partial class Client
 {

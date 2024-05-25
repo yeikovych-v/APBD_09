@@ -1,4 +1,4 @@
-﻿namespace APBD_09.Context;
+﻿namespace APBD_09.Models;
 
 public class ClientTripDto
 {

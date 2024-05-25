@@ -1,5 +1,5 @@
-﻿using System.Runtime.InteropServices.JavaScript;
-using APBD_09.Context;
+﻿using APBD_09.Context;
+using APBD_09.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace APBD_09.Service;
